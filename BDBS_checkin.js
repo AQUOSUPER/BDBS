@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name              BDBS_checkin
+// @name              BDBS
 // @namespace         https://manhuabudangbbs.com
 // @version           0.0.1
 // @description       自动签到脚本，帮助用户在网站上完成每日签到
