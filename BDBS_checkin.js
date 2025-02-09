@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name              冰室补档签到
+// @name              BDBS_checkin
 // @namespace         https://manhuabudangbbs.com
 // @version           0.0.1
 // @description       自动签到脚本，帮助用户在网站上完成每日签到
