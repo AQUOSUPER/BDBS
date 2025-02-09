@@ -3,7 +3,7 @@
 // @namespace         https://manhuabudangbbs.com
 // @version           0.0.1
 // @description       自动签到脚本，帮助用户在网站上完成每日签到
-// @author            AQUOS
+// @author            AQUOSUPER
 // @match             https://www.manhuabudangbbs.com/u.php
 // @require           https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
 // @grant             GM_setValue
