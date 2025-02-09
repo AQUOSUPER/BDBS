@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              BDBS
-// @updateURL       https://raw.githubusercontent.com/AQUOSUPER/BDBS/blob/main/BDBS.js
-// @downloadURL     https://raw.githubusercontent.com/AQUOSUPER/BDBS/blob/main/BDBS.js
+// @updateURL         https://raw.githubusercontent.com/AQUOSUPER/BDBS/blob/main/BDBS.js
+// @downloadURL       https://raw.githubusercontent.com/AQUOSUPER/BDBS/blob/main/BDBS.js
 // @namespace         https://manhuabudangbbs.com
 // @version           0.0.1
 // @description       自动签到脚本，帮助用户在漫画补档冰室网站上完成每日签到
