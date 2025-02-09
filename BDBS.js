@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name              BDBS
+// @homepage          https://github.com/AQUOSUPER/BDBS/blob/main/BDBS.js
 // @namespace         https://manhuabudangbbs.com
 // @version           0.0.1
-// @description       自动签到脚本，帮助用户在网站上完成每日签到
+// @description       自动签到脚本，帮助用户在漫画补档冰室网站上完成每日签到
 // @author            AQUOSUPER
 // @match             https://www.manhuabudangbbs.com/u.php
 // @require           https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
